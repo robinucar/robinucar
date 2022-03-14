@@ -56,7 +56,7 @@ Here's a selection of my projects that demonstrate my technology and language sk
 
 
 ### 🏔 &nbsp; A few things that keep me busy
-* Reading (albeit not very well)
+* Reading
 * Watching
 * Travelling
 
