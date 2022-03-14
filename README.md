@@ -48,7 +48,6 @@ Here's a selection of my projects that demonstrate my technology and language sk
  * <strong>Director</strong>, <em>Independent Media & Post Production, London, United Kingdom</em>
  * <strong>Image Retoucher</strong>, <em>Select Fashion, London, United Kingdom</em>
  * <strong>Social Media Consultant</strong>, <em>Just A Group, London, United Kingdom</em>
- * <strong>Volunteer</strong>, <em>Chester Women's Aid, Young Minds and Makers Mentor</em>
 
 ### 📚 &nbsp; What I've studied
 
