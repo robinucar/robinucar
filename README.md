@@ -4,7 +4,7 @@
  <a href="mailto:robinmelsaw@gmail.com">
   <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
    <a href="https://github.com/robinucar">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/jasonrowsell?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/robinucar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow%22"/></a>
      <a href="https://www.codewars.com/users/Robin%20Winters">
     <img src="https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white"/></a>
  </div>
