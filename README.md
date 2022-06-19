@@ -13,7 +13,7 @@
 
 <h3 align="center">Junior Full Stack Software Engineer</h3>
 <h4 align="center">Recently graduated Makers Academy Software engineering bootcamp!</h4>
-<h5 align="center">If you want to see my portfolio please <a href="https://robin-winters.netlify.app/" target="_blank">CLICK ME !</a></h5>
+<h5 align="center">If you want to see my web portfolio please <a href="https://robin-winters.netlify.app/" target="_blank">CLICK ME !</a></h5>
 
 
 <h3 align="center">Languages and Tools</h3>
