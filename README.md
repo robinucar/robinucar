@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white"/></a>
  </div>
 
-<h1 align="center">Hi there, I'm Robin Melsa Winters 👋 Welcome to my GitHub!</h1>
+<h1 align="center">Hi there, I'm Robin Winters 👋 Welcome to my GitHub!</h1>
 
 <h3 align="center">Junior Full Stack Software Engineer</h3>
 <h4 align="center">Recently graduated Makers Academy Software engineering bootcamp!</h4>
