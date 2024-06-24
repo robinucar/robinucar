@@ -7,10 +7,10 @@
 - 🌱 I’m currently learning **Django**
 - 💬 Ask me about **Javascript, Typescript, Python, React, Test Driven Development and DevOps.**
 - 📫 How to reach me **robinmelsaw@gmail.com**
-- 👨‍💻 Some of my projects are available at **https://robin-winters.netlify.app/**
-- 📝 I regularly write articles on **https://medium.com/@robinmelsaw**
-- 🔭 I regularly shares my coding videos on **https://www.youtube.com/channel/UCx8dKipgs9gyaracxOsDuqw**
-- 📄 Know about my experiences **https://drive.google.com/file/d/1CT6uuMelx1Y6ba5vM89WS_jtwZlHzXkf/view?usp=sharing**
+- 👨‍💻 Some of my projects are available at <a href="https://robin-winters.netlify.app/">My Portfolio</a>.
+- 📝 I regularly write articles on <a href="https://medium.com/@robinmelsaw">My Blog</a>.
+- 🔭 I regularly shares my coding videos on <a href="https://www.youtube.com/channel/UCx8dKipgs9gyaracxOsDuqw">My Youtube Channel</a>.
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1CT6uuMelx1Y6ba5vM89WS_jtwZlHzXkf/view?usp=sharing">My Resume</a>.
 
 <div> <a href="https://www.linkedin.com/in/www.linkedin.com/in/robinmwinters" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/robinucar" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
