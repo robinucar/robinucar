@@ -2,10 +2,10 @@
 <h1 align="center">Hi 👋, I'm Robin Winters</h1>
 <h3 align="center">A passionate Software & DevOps Engineer from the UK.</h3>
 
-- 🔭 I’m currently working at **Infosys Limited as a Software Engineer.**
-  
+- 🔭 I’m currently working at AgileKinetic, a health tech startup, as a Full Stack Software Engineer...
+- 🧠 Previously, I worked at **Infosys Limited** as a Software Engineer, contributing to large-scale enterprise applications and building full-stack solutions.
 - 🌱 I’m currently learning **Django**
-- 💬 Ask me about **Javascript, Typescript, Python, React, Test Driven Development and DevOps.**
+- 💬 Ask me about **Javascript, Typescript, Python, React, Test Driven Development, AWS and DevOps.**
 - 📫 How to reach me **robinmelsaw@gmail.com**
 - 👨‍💻 Some of my projects are available at <a href="https://robin-winters.netlify.app/">My Portfolio</a>.
 - 📝 I regularly write articles on <a href="https://medium.com/@robinmelsaw">My Blog</a>.
